@@ -1,4 +1,4 @@
 # TipCalculator
 
 Joshua Wertz
-https://github.com/jdwertz/TipCalculator/new/master?readme=1
+https://github.com/jdwertz/TipCalculator/blob/master/README.md
